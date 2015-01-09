@@ -44,11 +44,10 @@ and open the template in the editor.
         $me->first_name = "Christopher";
         $me->add_email('home','chriswumbojumbo@msn.com');
         $me->add_email('work1','cqualizza@bcit.ca');
-        $me->add_email('work2','cqualizza@bcit.ca');
         $me->add_grade(99);
         $me->add_grade(99);
         $me->add_grade(99);
-        $students['CQ'] = $me;
+        $students['C999'] = $me;
         //
         
         //sorting
